@@ -2,7 +2,7 @@
 
 Olá pessoal, esse foi o primeiro desafio que fiz com a Linguagem Java
 
-Nesse desafio criei opções para consultar a na conta do cliente. 
+Nesse desafio unto com a ALura criei um menu com opções para consultar a conta do cliente. 
 Consultar o saldo, realizar transferência e receber também. 
 
 
